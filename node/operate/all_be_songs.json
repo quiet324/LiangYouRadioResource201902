@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181005",
-		"title": "靠主喜乐——腓立比书（4）兴旺福音的途径（腓1:12-30）（讲员：陈湘儿）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be181005.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/be20181005/be/be181005.mp3",
-		"id": 36181005
-	},
-	{
 		"time": "20181006",
 		"title": "靠主喜乐——腓立比书（5）主里的合一与谦卑（腓2:1-11）（讲员：陈湘儿）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be181006.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/be20190104/be/be190104.mp3",
 		"id": 36190104
+	},
+	{
+		"time": "20190106",
+		"title": "创世记（6）圣经为何要记载人物的名字？（创4:16-5:24）（讲员：李重恩）",
+		"downUrl": "http://txly2.net/ly/audio/2019/be/be190106.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/be20190106/be/be190106.mp3",
+		"id": 36190106
 	}
 ]
