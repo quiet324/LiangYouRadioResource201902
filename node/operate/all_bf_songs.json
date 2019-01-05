@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180616",
-		"title": "什么是好爸爸？（1）依靠神",
-		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180616.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 1,
-		"artistName": "幸福满家园",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201824/bf20180616/bf/bf180616.mp3",
-		"id": 1180616
-	},
-	{
 		"time": "20180617",
 		"title": "什么是好爸爸？（2）爱孩子的妈咪",
 		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180617.mp3",
@@ -624,5 +613,16 @@
 		"artistName": "幸福满家园",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/bf20181230/bf/bf181230.mp3",
 		"id": 1181230
+	},
+	{
+		"time": "20190106",
+		"title": "化离婚悲痛为荣耀（1）婚姻的特性；歌曲：《不变的爱》",
+		"downUrl": "http://txly2.net/ly/audio/2019/bf/bf190106.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 1,
+		"artistName": "幸福满家园",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/bf20190106/bf/bf190106.mp3",
+		"id": 1190106
 	}
 ]
