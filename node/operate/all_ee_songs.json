@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181005",
-		"title": "智慧语录：一个认识神的人；亮丽人生不是梦：小单的探险笔记——我很喜欢我自己独一无二的美丽",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181005.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ee20181005/ee/ee181005.mp3",
-		"id": 29181005
-	},
-	{
 		"time": "20181006",
 		"title": "智慧语录：为什么神会任凭祂忠心的仆人历经种种苦难呢？用智慧演绎人生：神是做新事的神",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181006.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/ee20190104/ee/ee190104.mp3",
 		"id": 29190104
+	},
+	{
+		"time": "20190106",
+		"title": "新年特辑：破茧而出亮丽飞舞（6）重新得力，展翅飞翔（2）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ee/ee190106.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ee20190106/ee/ee190106.mp3",
+		"id": 29190106
 	}
 ]
