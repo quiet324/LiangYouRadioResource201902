@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181005",
-		"title": "纪念“失望先生”（伯24:1-12）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181005.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/mw20181005/mw/mw181005.mp3",
-		"id": 30181005
-	},
-	{
 		"time": "20181006",
 		"title": "“放下”才能得回（太10:34-39）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181006.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/mw20190104/mw/mw190104.mp3",
 		"id": 30190104
+	},
+	{
+		"time": "20190106",
+		"title": "临终时的恩典（赛43:1-13）",
+		"downUrl": "http://txly2.net/ly/audio/2019/mw/mw190106.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/mw20190106/mw/mw190106.mp3",
+		"id": 30190106
 	}
 ]
