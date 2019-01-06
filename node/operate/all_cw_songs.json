@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181005",
-		"title": "赞美旋律：巴赫b小调弥撒曲之《荣耀颂》（后段）",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181005.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cw20181005/cw/cw181005.mp3",
-		"id": 51181005
-	},
-	{
 		"time": "20181008",
 		"title": "生命之歌：倪柝声《让我爱而不受感戴》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181008.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/cw20190104/cw/cw190104.mp3",
 		"id": 51190104
+	},
+	{
+		"time": "20190107",
+		"title": "生命之歌：希伯来诗歌《天父阿！我们的王》、《上行之诗》、《神本为大》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190107.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/cw20190107/cw/cw190107.mp3",
+		"id": 51190107
 	}
 ]
