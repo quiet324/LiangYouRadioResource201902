@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181006",
-		"title": "三种收割与四种宣告（3）（启14:9-13）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th181006.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/th20181006/th/th181006.mp3",
-		"id": 32181006
-	},
-	{
 		"time": "20181007",
 		"title": "耶路撒冷复兴大会（4）（尼8:13-18）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th181007.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/th20190106/th/th190106.mp3",
 		"id": 32190106
+	},
+	{
+		"time": "20190107",
+		"title": "约瑟为法老解梦并受命治理埃及（1）（创41:1-8）",
+		"downUrl": "http://txly2.net/ly/audio/2019/th/th190107.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/th20190107/th/th190107.mp3",
+		"id": 32190107
 	}
 ]
