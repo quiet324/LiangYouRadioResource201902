@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181006",
-		"title": "从布道到培训：传道人的榜样（主持：卢文、周虹）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181006.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ds20181006/ds/ds181006.mp3",
-		"id": 46181006
-	},
-	{
 		"time": "20181007",
 		"title": "良院讲台：面对逆境（徒8:1-4，诗29:9-10；讲员：卢文）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181007.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ds20190106/ds/ds190106.mp3",
 		"id": 46190106
+	},
+	{
+		"time": "20190107",
+		"title": "良院专区：学习天地（山东李姊妹）；公布《诗歌智慧书I》考题",
+		"downUrl": "http://txly2.net/ly/audio/2019/ds/ds190107.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ds20190107/ds/ds190107.mp3",
+		"id": 46190107
 	}
 ]
