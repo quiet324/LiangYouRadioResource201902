@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181006",
-		"title": "智慧语录：为什么神会任凭祂忠心的仆人历经种种苦难呢？用智慧演绎人生：神是做新事的神",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181006.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ee20181006/ee/ee181006.mp3",
-		"id": 29181006
-	},
-	{
 		"time": "20181007",
 		"title": "智慧语录：上帝给你的不一定是你想要的，但一定是你需要的；神的叮咛我最爱：信仰真伪辨",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181007.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ee20190106/ee/ee190106.mp3",
 		"id": 29190106
+	},
+	{
+		"time": "20190107",
+		"title": "新年特辑：破茧而出亮丽飞舞（7）追求卓越（1）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ee/ee190107.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ee20190107/ee/ee190107.mp3",
+		"id": 29190107
 	}
 ]
