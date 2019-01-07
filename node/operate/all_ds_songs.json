@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181007",
-		"title": "良院讲台：面对逆境（徒8:1-4，诗29:9-10；讲员：卢文）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181007.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ds20181007/ds/ds181007.mp3",
-		"id": 46181007
-	},
-	{
 		"time": "20181008",
 		"title": "良院专区：公布9月19日至22日“向老师致敬”答案；公布《保罗书信II》、《罗马书》考题",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181008.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ds20190107/ds/ds190107.mp3",
 		"id": 46190107
+	},
+	{
+		"time": "20190108",
+		"title": "教牧新视野：逆境是神的礼物（林后9:15；主持：姚谦、林诚）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ds/ds190108.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ds20190108/ds/ds190108.mp3",
+		"id": 46190108
 	}
 ]
