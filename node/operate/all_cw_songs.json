@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181008",
-		"title": "生命之歌：倪柝声《让我爱而不受感戴》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181008.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/cw20181008/cw/cw181008.mp3",
-		"id": 51181008
-	},
-	{
 		"time": "20181009",
 		"title": "弹指之间：有力量的诗歌──谭力诗姊妹专访《我的力量 我的诗歌》、《我的心》、《为你而唱》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181009.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/cw20190107/cw/cw190107.mp3",
 		"id": 51190107
+	},
+	{
+		"time": "20190108",
+		"title": "弹指之间：透过你的眼──郭怡君姊妹专访《十字架的斑马线》、《熊蜂歌嗡嗡嗡》、《天父世界》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190108.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/cw20190108/cw/cw190108.mp3",
+		"id": 51190108
 	}
 ]
