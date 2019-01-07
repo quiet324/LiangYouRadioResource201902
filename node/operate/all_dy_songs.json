@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181005",
-		"title": "好得无比，每一天：回去（雅5:17）；耶稣生平广播剧：与耶稣相遇的十个故事（10）少年的官；我爱背金句：提前2:1-2",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181005.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/dy20181005/dy/dy181005.mp3",
-		"id": 24181005
-	},
-	{
 		"time": "20181008",
 		"title": "好得无比，每一天：教训？批评？（雅3:5）；天路历程（1）；我爱背金句：徒10:34-35",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181008.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/dy20190104/dy/dy190104.mp3",
 		"id": 24190104
+	},
+	{
+		"time": "20190107",
+		"title": "每日天粮：凡事虚空（传1:2）；认识教会（3）（主持：程蒙恩）；我爱背金句：诗4:7-8",
+		"downUrl": "http://txly2.net/ly/audio/2019/dy/dy190107.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/dy20190107/dy/dy190107.mp3",
+		"id": 24190107
 	}
 ]
