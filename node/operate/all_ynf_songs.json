@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181007",
-		"title": "学道篇：研经与释经",
-		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf181007.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 58,
-		"artistName": "爱在人间（云南话）",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ynf20181007/ynf/ynf181007.mp3",
-		"id": 58181007
-	},
-	{
 		"time": "20181008",
 		"title": "耶稣生平；灵修：《灵命日粮》；友谊桥",
 		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf181008.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "爱在人间（云南话）",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ynf20190107/ynf/ynf190107.mp3",
 		"id": 58190107
+	},
+	{
+		"time": "20190108",
+		"title": "心情日记；圣经辞藻；圣经故事",
+		"downUrl": "http://txly2.net/ly/audio/2019/ynf/ynf190108.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 58,
+		"artistName": "爱在人间（云南话）",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ynf20190108/ynf/ynf190108.mp3",
+		"id": 58190108
 	}
 ]
