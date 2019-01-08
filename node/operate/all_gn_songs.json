@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181009",
-		"title": "从怀疑到相信──姜文琪姊妹的故事（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181009.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/gn20181009/gn/gn181009.mp3",
-		"id": 22181009
-	},
-	{
 		"time": "20181010",
 		"title": "从怀疑到相信──姜文琪姊妹的故事（3）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181010.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/gn20190108/gn/gn190108.mp3",
 		"id": 22190108
+	},
+	{
+		"time": "20190109",
+		"title": "神对我的爱──包涵的故事",
+		"downUrl": "http://txly2.net/ly/audio/2019/gn/gn190109.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/gn20190109/gn/gn190109.mp3",
+		"id": 22190109
 	}
 ]
