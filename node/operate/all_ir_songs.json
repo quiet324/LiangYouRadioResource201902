@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181008",
-		"title": "节目推介：《生活之光》、《天使夜未眠》；心火相传：唐华眼中的少数民族；回应留言：刘姊妹",
-		"downUrl": "http://txly2.net/ly/audio/2018/ir/ir181008.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 12,
-		"artistName": "i-Radio爱广播",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ir20181008/ir/ir181008.mp3",
-		"id": 12181008
-	},
-	{
 		"time": "20181009",
 		"title": "节目推介：《空中辅导》、《恋爱季节》；我们是好夥伴：安徽杨姊妹",
 		"downUrl": "http://txly2.net/ly/audio/2018/ir/ir181009.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "i-Radio爱广播",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ir20190108/ir/ir190108.mp3",
 		"id": 12190108
+	},
+	{
+		"time": "20190109",
+		"title": "节目推介：《迎风传颂》圣诗之旅、《爆米花》作和平之子；赵群心语：传福音与大众传媒的平衡；回应听众：山西徐姊妹",
+		"downUrl": "http://txly2.net/ly/audio/2019/ir/ir190109.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 12,
+		"artistName": "i-Radio爱广播",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ir20190109/ir/ir190109.mp3",
+		"id": 12190109
 	}
 ]
