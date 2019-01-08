@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181009",
-		"title": "为神建立家室：赐下一切所需",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181009.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ut20181009/ut/ut181009.mp3",
-		"id": 18181009
-	},
-	{
 		"time": "20181010",
 		"title": "为神建立家室：见证人的生活",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181010.mp3",
@@ -722,5 +711,15 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ut20190108/ut/ut190108.mp3",
 		"id": 18190108
+	},
+	{
+		"time": "20190109",
+		"downUrl": "http://txly2.net/ly/audio/2019/ut/ut190109.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ut20190109/ut/ut190109.mp3",
+		"id": 18190109
 	}
 ]
