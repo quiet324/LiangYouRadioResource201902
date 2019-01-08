@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181008",
-		"title": "全献在坛上（创22:1-14）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181008.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/mw20181008/mw/mw181008.mp3",
-		"id": 30181008
-	},
-	{
 		"time": "20181009",
 		"title": "为义受苦（启2:8-11）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181009.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/mw20190108/mw/mw190108.mp3",
 		"id": 30190108
+	},
+	{
+		"time": "20190109",
+		"title": "将来要显于我们的荣耀（罗8:18-25）",
+		"downUrl": "http://txly2.net/ly/audio/2019/mw/mw190109.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/mw20190109/mw/mw190109.mp3",
+		"id": 30190109
 	}
 ]
