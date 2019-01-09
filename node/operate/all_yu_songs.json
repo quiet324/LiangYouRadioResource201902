@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181009",
-		"title": "创译英文同乐会：箴13:4（懒惰人羡慕，却无所得）",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181009.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/yu20181009/yu/yu181009.mp3",
-		"id": 7181009
-	},
-	{
 		"time": "20181010",
 		"title": "绝妙各行业：低升糖饮食（下）",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181010.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/yu20190109/yu/yu190109.mp3",
 		"id": 7190109
+	},
+	{
+		"time": "20190110",
+		"title": "绝妙热话题：生活中的数学",
+		"downUrl": "http://txly2.net/ly/audio/2019/yu/yu190110.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/yu20190110/yu/yu190110.mp3",
+		"id": 7190110
 	}
 ]
