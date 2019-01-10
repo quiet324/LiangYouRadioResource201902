@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181011",
-		"title": "阳光之地，神与我同在──根子的故事",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181011.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/gn20181011/gn/gn181011.mp3",
-		"id": 22181011
-	},
-	{
 		"time": "20181012",
 		"title": "生命之歌",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181012.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/gn20190110/gn/gn190110.mp3",
 		"id": 22190110
+	},
+	{
+		"time": "20190111",
+		"title": "生命之歌",
+		"downUrl": "http://txly2.net/ly/audio/2019/gn/gn190111.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/gn20190111/gn/gn190111.mp3",
+		"id": 22190111
 	}
 ]
