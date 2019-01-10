@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181011",
-		"title": "来吧赞美：《拣选》、《全新的你》、《耶稣在我里面》、《爱传福音》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181011.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/cw20181011/cw/cw181011.mp3",
-		"id": 51181011
-	},
-	{
 		"time": "20181012",
 		"title": "赞美旋律：门德尔松第二号交响曲《赞美颂歌》（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181012.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/cw20190110/cw/cw190110.mp3",
 		"id": 51190110
+	},
+	{
+		"time": "20190111",
+		"title": "赞美旋律：贝多芬庄严弥撒之《荣耀颂》前半段",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190111.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/cw20190111/cw/cw190111.mp3",
+		"id": 51190111
 	}
 ]
