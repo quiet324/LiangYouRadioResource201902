@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181011",
-		"title": "节目推介：《i关怀心磁场》、《与神同行》；我们是好夥伴：云南小雨姊妹",
-		"downUrl": "http://txly2.net/ly/audio/2018/ir/ir181011.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 12,
-		"artistName": "i-Radio爱广播",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ir20181011/ir/ir181011.mp3",
-		"id": 12181011
-	},
-	{
 		"time": "20181012",
 		"title": "节目推介：《欢乐卡恰碰》、《真道分解》；爱广播．十载感恩（5）PA手记──小娟（主持：万峰、于欣甜）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ir/ir181012.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "i-Radio爱广播",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ir20190111/ir/ir190111.mp3",
 		"id": 12190111
+	},
+	{
+		"time": "20190112",
+		"title": "节目推介：《空中辅导》男人研究所、《生命的福音》渴想的操练；广播梦工场：广播写作（13）思想“结构”",
+		"downUrl": "http://txly2.net/ly/audio/2019/ir/ir190112.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 12,
+		"artistName": "i-Radio爱广播",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ir20190112/ir/ir190112.mp3",
+		"id": 12190112
 	}
 ]
